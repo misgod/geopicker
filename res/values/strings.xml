@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GeoPicker</string>
+    <string name="geo_text_format_dms">lat:\t{0}\nlon:\t{1}</string>
+    <string name="geo_text_format_dd">		lat:\t{0,number,##.000000}\nlon:\t{1,number,###.000000}</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_address">Address</string>
+    <string name="menu_mylocation">My Location</string>
+    <string name="menu_Satellite_on">Satellite ON</string>
+    <string name="menu_Satellite_off">Satellite OFF</string>
+    <string name="menu_copy">Copy</string>
+    <string name="menu_direction">Direction</string>
+    <string name="menu_back">Back</string>
+    <string name="menu_setting">Setting</string>
+    <string name="search_label">Reverse Geocoding</string>
+    <string name="search_hint">an address or place</string>
+    <string name="copy_format">Copy format</string>
+    <string name="copy_to_clipboard">Copy to Clipboard</string>
+    <string name="default_copy">lat,lon:$lat,$lon</string>
+    <string name="msg_loading">Searching…</string>
+    <string name="msg_reverse_failure">Can\'t get reverse geocoding…</string>
+    <string name="msg_lookup_failure">Can\'t get an address…</string>
+    <string name="msg_mylocation_not_available">Your location is not available…</string>
+    <string name="msg_copy_to_clipboard">lat/lon is in your clipboard now.</string>
+    <string name="msg_copy_address_to_clipboard">address is in your clipboard now.</string>
+    <string name="msg_delete">Delete  %1$s ?</string>
+    <string name="pref_compass_title">Enable compass</string>
+    <string name="pref_compass_summary">Show compass on map</string>
+    <string name="pref_format_title">Copy format</string>
+    <string name="title_bookmark">Input your pin name</string>
+    <string name="menu_bookmark">Pin</string>
+   <string name="menu_bookmark_list">Pin List</string>
+</resources>

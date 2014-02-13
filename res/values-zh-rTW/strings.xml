@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GeoPicker</string>
+    <string name="geo_text_format_dms">經度:\t{1}\n緯度:\t{0}</string>
+    <string name="geo_text_format_dd">		經度:\t{1,number,###.000000}\n緯度:\t{0,number,##.000000}</string>
+    <string name="menu_search">查詢</string>
+    <string name="menu_address">地址</string>
+    <string name="menu_mylocation">我的位置</string>
+    <string name="menu_Satellite_on">衛星圖 開</string>
+    <string name="menu_Satellite_off">衛星圖 關</string>
+    <string name="menu_copy">複製</string>
+    <string name="menu_direction">路線</string>
+    <string name="menu_back">返回</string>
+    <string name="search_label">地址反查</string>
+    <string name="search_hint">輸入地址或景點</string>
+    <string name="copy_format">複製格式</string>
+    <string name="copy_to_clipboard">複製到剪貼簿</string>
+    <string name="default_copy">經度,緯度:(lon),(lat)</string>
+    <string name="msg_lookup_failure">目前無法取得地址&#8230;</string>
+    <string name="msg_loading">查詢中&#8230;</string>
+    <string name="msg_reverse_failure">目前無法取得資料&#8230;</string>
+    <string name="msg_mylocation_not_available">尚未偵測到你的位置&#8230;</string>
+    <string name="msg_copy_to_clipboard">經緯度已經複製進剪貼簿</string>
+    <string name="msg_copy_address_to_clipboard">地址已經複製進剪貼簿</string>
+    <string name="pref_compass_title">啟動羅盤</string>
+    <string name="pref_compass_summary">在地圖上顯示指北針</string>
+    <string name="pref_format_title">複製格式</string>
+   <string name="menu_setting">選項</string>
+   
+       <string name="msg_delete">刪除  %1$s?</string>
+   
+         <string name="title_bookmark">請輸入你的標記名稱</string>
+    <string name="menu_bookmark">標記</string>
+   <string name="menu_bookmark_list">標記列表</string>  
+       
+</resources>

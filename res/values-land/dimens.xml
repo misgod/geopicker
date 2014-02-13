@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Primary text size -->
+	<dimen name="text_size_larger">20sp</dimen>
+	<!-- Primary text size -->
+	<dimen name="text_size_primary">18sp</dimen>
+
+	<!-- Secondary text size -->
+	<dimen name="text_size_secondary">16sp</dimen>
+	<dimen name="location_text_padding">5dip</dimen>
+	<dimen name="location_text_width">450dip</dimen>
+	<dimen name="location_text_height">60dip</dimen>
+	<dimen name="location_text_margin_bottom">40dip</dimen>
+
+</resources>
+

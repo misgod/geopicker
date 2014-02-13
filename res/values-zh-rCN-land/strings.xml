@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="geo_text_format_dms">经度: {1},纬度: {0}</string>
+    <string name="geo_text_format_dd">经度:{1,number,###.000000} 纬度:{0,number,##.000000}</string>
+ 
+</resources>
